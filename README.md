@@ -6,4 +6,4 @@ A bot for getting notifications from various task-tracking systems. Currently im
 
 ## Note on running
 
-I purposely left the fields of BotInfo.java empty, as that class was specifically put in there to store private information (such as the bot token and the Trello API key). If for some reason you want to host this bot yourself, please contact me @fr0streaper basically anywhere, or create your own bot and API key and use them. 
+I purposely left the fields of BotData.java empty, as that class was specifically put in there to store private information (such as the bot token and the Trello API key). If for some reason you want to host this bot yourself, please contact me @fr0streaper basically anywhere, or create your own bot and API key and use them. 
